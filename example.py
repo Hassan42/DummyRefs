@@ -1,4 +1,4 @@
-class C:
+class B:
     a: float
     b: float
     c: float = field(init=False)
