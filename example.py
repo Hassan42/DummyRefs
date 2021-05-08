@@ -1,7 +1,7 @@
-class B:
-    a: float
-    b: float
-    c: float = field(init=False)
+class example_class:
+	def methodA(self):
+		print(0)
+		total = 1 + 2 + 3
 
-    def __post_init__(self):
-        self.c = self.a + self.b
+	def methodB(self):
+		obj = a + c
