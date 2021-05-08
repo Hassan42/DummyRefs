@@ -1,4 +1,4 @@
 class example_class:
-    def methodB(self):
+    def methodD(self, par):
         print(0)
         x = 3 + 2
